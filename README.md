@@ -17,8 +17,9 @@ Visual components and Python
 
 
 ## Experiment:
-![Summa](image.png)
-![Summatha](image-1.png)
+<img width="884" height="523" alt="image" src="https://github.com/user-attachments/assets/4e8f0e84-1707-4483-9c0e-fd08e4b4d8a4" />
+<img width="881" height="521" alt="image" src="https://github.com/user-attachments/assets/106df90f-7e6a-4588-b030-887a63c7d0df" />
+
 
 ## Program
 ```python
